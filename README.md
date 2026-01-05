@@ -74,6 +74,9 @@ app/
 <li>This is a starting project template for the Book Store App.</li>
 <li>Features and UI will be updated as development progresses.</li>
 </ul>
+## 📥 Download APK
+
+👉 [Download Latest APK](https://github.com/ishanwalia7579/Android-Book-Store-App/releases)
 
 ```pgsql
 I can also make a **more visually attractive README** with **placeholder screenshots and a roadmap table** so it looks professional from day one.  
