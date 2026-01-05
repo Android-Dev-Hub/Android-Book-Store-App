@@ -77,6 +77,10 @@ app/
 ## 📥 Download APK
 
 👉 [Download Latest APK](https://github.com/ishanwalia7579/Android-Book-Store-App/releases)
+## ⭐ Support
+
+If you like this project, give a ⭐ star on GitHub.  
+It motivates me to build more Android apps ❤️
 
 ```pgsql
 I can also make a **more visually attractive README** with **placeholder screenshots and a roadmap table** so it looks professional from day one.  
