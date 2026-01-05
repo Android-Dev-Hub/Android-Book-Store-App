@@ -13,6 +13,13 @@ A new Android project built with Kotlin that allows users to browse and manage b
 - Simple and responsive UI using ConstraintLayout.
 
 ---
+## 🏆 Why Book Store App?
+
+- Simple & clean UI  
+- Perfect for students  
+- Lightweight application  
+- Fast browsing experience  
+- Easy to extend in future  
 
 ## Tech Stack
 
