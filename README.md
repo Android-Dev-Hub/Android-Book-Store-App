@@ -49,6 +49,12 @@ app/
 │   │   └── res/                         # Layouts, drawable, values
 │   └── AndroidManifest.xml
 ```
+## 🎯 Use Cases
+
+- College mini project  
+- Online book browsing  
+- Personal reading library  
+- Digital book management  
 
 # How to Use
 
