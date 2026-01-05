@@ -39,6 +39,10 @@ A new Android project built with Kotlin that allows users to browse and manage b
    ```
 2. Open the project in Android Studio.
 3. Build and run the project on an emulator or Android device.
+## 🔐 App Permissions
+
+- INTERNET  
+- ACCESS_NETWORK_STATE  
 
 Project Structure
 ```bash
