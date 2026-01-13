@@ -69,6 +69,12 @@ app/
 <li>Future updates will include cart and search features.</li>
 </ul>
 
+## 📸 Screenshots
+
+| Home Screen | Book List | Details |
+|------------|----------|--------|
+| ![](screens/home.png) | ![](screens/list.png) | ![](screens/details.png) |
+
 ## 🛣 Roadmap
 
 | Version | Features |
