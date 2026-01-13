@@ -68,6 +68,19 @@ app/
 <li>Click on a book to see details (screen to be implemented).</li>
 <li>Future updates will include cart and search features.</li>
 </ul>
+
+## 🛣 Roadmap
+
+| Version | Features |
+|--------|----------|
+| v1.0 | Book list UI |
+| v1.1 | Book detail page |
+| v1.2 | Search & filter |
+| v1.3 | Cart & Favorites |
+| v1.4 | Firebase database |
+| v1.5 | Login system |
+
+
 ## 🌟 Why This App is Special?
 
 - Clean & beginner friendly Kotlin code
