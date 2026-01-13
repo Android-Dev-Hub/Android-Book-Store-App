@@ -68,6 +68,12 @@ app/
 <li>Click on a book to see details (screen to be implemented).</li>
 <li>Future updates will include cart and search features.</li>
 </ul>
+## 🌟 Why This App is Special?
+
+- Clean & beginner friendly Kotlin code
+- Real Play Store type project structure
+- Easy to customize & extend
+- Best for college projects and internships
 
 # Notes
 <ul>
